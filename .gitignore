@@ -1,0 +1,15 @@
+!gradle/wrapper/gradle-wrapper.jar
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+/out/
+/build/
+
+/.idea
+/.gradle
+/gradle
+gradlew
+gradlew.bat
+settings.gradle
